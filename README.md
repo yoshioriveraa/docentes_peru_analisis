@@ -172,7 +172,7 @@ FROM docentes GROUP BY dpto ORDER BY pct_sin_titulo DESC LIMIT 15;
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/docentes-peru-analisis.git
+git clone https://github.com/yoshioriveraa/docentes_peru_analisis.git
 cd docentes-peru-analisis
 
 # 2. Crear entorno virtual (recomendado)
@@ -205,10 +205,10 @@ jupyter notebook notebooks/analisis_exploratorio.ipynb
 
 ## 👤 Autor
 
-**[Tu Nombre]** — Analista de Datos  
-📧 tucorreo@email.com  
-🔗 [LinkedIn](https://linkedin.com/in/tu-perfil)  
-💼 [Portfolio](https://tu-portfolio.com)
+**Yoshio Rivera Agarie** — Analista de Datos  
+📧 yoshio.neptuno@email.com  
+🔗 [LinkedIn](https://linkedin.com/in/yoshioriveraa)  
+💼 [Portfolio](https://yoshioriveraa.github.io)
 
 ---
 
